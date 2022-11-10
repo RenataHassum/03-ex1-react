@@ -1,0 +1,13 @@
+.card {
+  margin-top: 30px;
+  background-color: var(--bg--white);
+  height: 200px;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.card {
+  color: var(--color-grey);
+  font-size: 20px;
+  font-weight: 700;
+}

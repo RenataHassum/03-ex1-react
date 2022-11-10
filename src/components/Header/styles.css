@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 28px 0;
+  background-color: var(--bg-red);
+  height: 80px;
+}
+
+.header h1 {
+  color: var(--color-white);
+  font-weight: 700;
+  font-size: 20px;
+}
